@@ -1,7 +1,6 @@
 # An example of typescript program for node
 
-## How to start
-### Prerequisites
+## Prerequisites
 - Install `node` and `npm`, https://nodejs.org/en/download/
 - Check availability of `node` and `npm`:
 ```shell
@@ -19,8 +18,9 @@ v16.13.0
 ```shell
 > npm install 
 ```
+## How to start
 
-To start the program, run:
+To launch the program, run:
 ```shell
 > npm run start
 ```
